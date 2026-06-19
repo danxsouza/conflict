@@ -1,11 +1,5 @@
-1
-2
-4
-5
-6
-7
-8
-9
+function sum(a: number, b: number): number {
+  return a + b;
+}
 
-
-8
+console.log(sum(2, 2)); // 4
